@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publisher": "Little, Brown and Company",
+      "year": 1951,
+      "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/af458b61554953.5a721c7fb5bde.png"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publisher": "J.B. Lippincott & Co.",
+      "year": 1960,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "year": 1949,
+      "image_url": "https://media.npr.org/assets/img/2013/06/08/orwell1-e0ebaeb3d54efbba72469ccb2d734970392b83ea.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Charles Scribner's Sons",
+      "year": 1925,
+      "image_url": "https://www.aceshowbiz.com/display/images/photo/2021/01/27/00165703.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publisher": "T. Egerton, Whitehall",
+      "year": 1813,
+      "image_url": "https://images.squarespace-cdn.com/content/v1/59b127f2f9a61e09f11d37d0/e66c8e8f-9149-43c3-950b-4402946a223e/a621e62e8b_pride-and-prejudice-1920.jpg"
+    }
+  ]
+}
